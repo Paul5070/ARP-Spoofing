@@ -13,7 +13,7 @@ nmap
 Python modules -- python-nmap , scapy, requests
 Debian Installation
 
-git clone https://github.com/R3DDY97/KICKthemOUT3.git
+git clone https://github.com/Paul5070/ARP-Spoofing.git
 cd KICKthemOUT3/
 sudo -H pip3 install -r requirements.txt
 sudo apt-get update && sudo apt-get install nmap
